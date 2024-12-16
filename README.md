@@ -23,7 +23,7 @@ AR내비게이션
 ● TMap API에서 받아온 좌표에 Haversine Formula(두 점 사이의 대원 거리 공식)를 적용해서 AR 환경에서 경로를 시각적으로 안내하기 위한 3D 좌표로 변환
 ● ARCore 및 Sceneform을 이용해 카메라로 실제 환경을 받아와서 목적지까지의 AR 객체 배치 및 경로 안내
 ## 기술스택
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
 
 ## 개발 환경
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
