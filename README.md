@@ -22,21 +22,18 @@ AR내비게이션
  AR 도보 내비게이션 모드는 증강현실(AR) 기술을 도입해 현실 공간에서 경로를 시각적으로 안내한다. 이 모드는 사용자가 스마트폰 화면을 통해 AR 객체를 활용한 경로 표시를 볼 수 있어, 지도와 현실 지형의 불일치로 인한 혼란을 최소화한다.
 ● TMap API에서 받아온 좌표에 Haversine Formula(두 점 사이의 대원 거리 공식)를 적용해서 AR 환경에서 경로를 시각적으로 안내하기 위한 3D 좌표로 변환
 ● ARCore 및 Sceneform을 이용해 카메라로 실제 환경을 받아와서 목적지까지의 AR 객체 배치 및 경로 안내
-## 기술스택
-![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
 
-## 개발 환경
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![ARCore](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![Sceneform](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)             
+## 기술 스택 및 환경
+- Java
+- ARcore
+- SceneForm
+- VScode   
 
 
 ## 화면 구성 및 실행 화면 📺
 | 일반 도보 내비게이션 | AR 내비게이션 |
 | :-------------------------------------------: | :------------: |
-| <img width="329" src="image/common.png"/> | <img width="329" src="image/main.png"/> |  
-| 실행화면1 | 실행화면2 |  
-| <img width="329" src="image/AR.png"/> | <img width="329" src="image/run1.png"/> |
+| <img width="329" src="image/common.png"/> | <img width="329" src="image/AR.png"/> |  
 
 ## 주요 기능
 
