@@ -9,6 +9,7 @@ AR내비게이션
 |송규림|한경대 컴퓨터공학과 SC|[@gyuliming](https://github.com/gyuliming)|
 |조정행|한경대 컴퓨터공학과 SC|[@JOJeongHaeng](https://github.com/JOJeongHaeng)|
 
+<img width="1416" height="956" alt="image (2)" src="https://github.com/user-attachments/assets/0d9ed66d-83ab-4401-92f7-3573d957f5c2" />
 
 ## 프로젝트 소개
 
